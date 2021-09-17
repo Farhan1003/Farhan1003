@@ -23,5 +23,6 @@
 <br />
 <br />
 
-[![Farhans's GitHub stats](https://github-readme-stats.vercel.app/api?username=Farhan1003)](https://github.com/anuraghazra/github-readme-stats)
+[![Farhans's GitHub stats](https://github-readme-stats.vercel.app/api?username=Farhan1003&theme=radical)
+)](https://github.com/anuraghazra/github-readme-stats)
 
