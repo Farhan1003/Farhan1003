@@ -23,12 +23,5 @@
 <br />
 <br />
 
----
-<details>
-  <summary>:zap: GitHub Stats</summary>
+[![Farhans's GitHub stats](https://github-readme-stats.vercel.app/api?username=Farhan1003)](https://github.com/anuraghazra/github-readme-stats)
 
-  <img align="left" alt="Farhans's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Farhan1003&show_icons=true&hide_border=true" />
-
-</details>
-
----
